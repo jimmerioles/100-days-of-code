@@ -1,10 +1,16 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Jim Merioles
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on September 30, Saturday, 2017.
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+Today I have decided to commit to #100DaysOfCode and have restarted my FreeCodeCamp leaning journey from scratch.
+#### Today's Progress: 
+- Finished:
+  - Frontend Development Certification: HTML5 and CSS
+  - Frontend Development Certification: Responsive Design with Bootstrap
+  - Frontend Development Certification: jQuery
+  - Frontend Development Certification: Basic Front-end Development Projects > Get set for our Front-end Development Projects
+- On going: 
+  - Frontend Development Certification: Basic Front-end Development Projects > Build a Tribute Page

@@ -8,6 +8,7 @@ The log of my #100DaysOfCode challenge. Started on September 30, Saturday, 2017.
 Today I have decided to commit to #100DaysOfCode, aiming for #FreeCodeCamp `Front-end Development Certificate`.
 
 ### R1D1
+Today I finished a couple of challenges, currently researching a candidate for my tribute page.
 #### Today's Progress: 
 - Done:
   - Frontend Development Certification: HTML5 and CSS

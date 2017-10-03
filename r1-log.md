@@ -22,3 +22,8 @@ Today I finished a couple of challenges, currently researching a candidate for m
 Halfway through #FreeCodeCamp tribute page challenge, finally chosen a very awesome and worthy candidate 🤣, so many ideas came to my mind for the design and theme 🤓. Overall awesome day! 😋
 - Doing: 
   - Frontend Development Certification: Basic Front-end Development Projects > Build a Tribute Page
+
+### R1D3
+Carefully analyzed and cherry picked a lot of info from 7 different sources  and merged it to one. Got dizzy 😵.
+- Doing: 
+  - Frontend Development Certification: Basic Front-end Development Projects > Build a Tribute Page

@@ -27,3 +27,8 @@ Halfway through #FreeCodeCamp tribute page challenge, finally chosen a very awes
 Carefully analyzed and cherry picked a lot of info from 7 different sources  and merged it to one. Got dizzy 😵.
 - Doing: 
   - Frontend Development Certification: Basic Front-end Development Projects > Build a Tribute Page
+
+### R1D4
+Around 70% complete on my #freeCodeCamp tribute page challenge. Finished cherry picking accurate data and dates from 7+3 sources. Dipped toes on Flexbox, gonna dive deep tomorrow.
+- Doing: 
+  - Frontend Development Certification: Basic Front-end Development Projects > Build a Tribute Page

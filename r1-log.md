@@ -42,3 +42,9 @@ Explored CSS3 Flexbox deeply.
 Explored CSS3 Grid, found a bug and reported. CSS3 Grid is so powerful!.
 - Doing: 
   - Frontend Development Certification: Basic Front-end Development Projects > Build a Tribute Page
+ 
+### R1D7 - R1D8
+- Had a deep dive at Flexbox and Grid for two days. Grid is the future! No more float hacks and stuffs! Gonna refactor my tribute page tomorrow even if it's almost done. I'll drop Bootstrap and use #CSS #Grid + #Flexbox instead.
+- Doing: 
+  - Frontend Development Certification: Basic Front-end Development Projects > Build a Tribute Page
+ 
